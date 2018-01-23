@@ -1,5 +1,6 @@
-# MOD21KM说明
-('HDF4_EOS:EOS_SWATH:"e:/papertestdata/0519/MOD021KM.A2014139.0335.006.2014225054811.hdf":MODIS_SWATH_Type_L1B:EV_1KM_RefSB', '[15x2030x1354] EV_1KM_RefSB MODIS_SWATH_Type_L1B (16-bit unsigned integer)')
+# MOD21KM说
+    ('HDF4_EOS:EOS_SWATH:"e:/papertestdata/0519/MOD021KM.A2014139.0335.006.2014225054811.hdf":MODIS_SWATH_Type_L1B:EV_1KM_RefSB', '[15x2030x1354] EV_1KM_RefSB MODIS_SWATH_Type_L1B (16-bit unsigned integer)')
+
 ('HDF4_EOS:EOS_SWATH:"e:/papertestdata/0519/MOD021KM.A2014139.0335.006.2014225054811.hdf":MODIS_SWATH_Type_L1B:EV_1KM_RefSB_Uncert_Indexes', '[15x2030x1354] EV_1KM_RefSB_Uncert_Indexes MODIS_SWATH_Type_L1B (8-bit unsigned integer)')
 ('HDF4_EOS:EOS_SWATH:"e:/papertestdata/0519/MOD021KM.A2014139.0335.006.2014225054811.hdf":MODIS_SWATH_Type_L1B:EV_1KM_Emissive', '[16x2030x1354] EV_1KM_Emissive MODIS_SWATH_Type_L1B (16-bit unsigned integer)')
 ('HDF4_EOS:EOS_SWATH:"e:/papertestdata/0519/MOD021KM.A2014139.0335.006.2014225054811.hdf":MODIS_SWATH_Type_L1B:EV_1KM_Emissive_Uncert_Indexes', '[16x2030x1354] EV_1KM_Emissive_Uncert_Indexes MODIS_SWATH_Type_L1B (8-bit unsigned integer)')
